@@ -1,11 +1,11 @@
-## Simple Express and Typescript Integration
+## Apply decorators to Express Routes using Typescript
 
-Simple Express app integrated with Typescript
+Apply decorators to Express Routes using Typescript.
 
-###### TS features added to work with Express
+###### Features of the project
 
-- Type annotations for Express arguments
-- Override type definition for body-parser middleware to replace body: any annotation
+- Create and apply decorators to routes
+- Decorators created for routes, middleware, and request body validation.
 
 ###### Other Modules
 
